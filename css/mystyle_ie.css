@@ -23,8 +23,8 @@ _:-ms-lang(x), .custom-control-label::after {
 _:-ms-lang(x), .custom-control {
 	padding-left: 0;
 }
-_:-ms-lang(x), .b-slide .card-text {
-	display: table-cell !important;
+_:-ms-lang(x), .card-img-overlay .card-text {
+	display: table !important;
 }
 
 /*стили только для IE 11*/
