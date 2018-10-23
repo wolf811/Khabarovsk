@@ -40,13 +40,18 @@
 		font-weight: 600;
 	}
 	.main-mobil .navbar-nav .dropdown-menu {
-
-		background-color: #4e8cc2;
+		background-color: #8395b9;
 		border: none;
 		color: #fff;
 		padding-top: 0;
 		padding-bottom: 0;
 		box-shadow: none;
+		font-size: 0.8rem;
+	}
+	.main-mobil .dropdown-item {
+		font-family: 'Avenir Next Cyr Light', sans-serif;
+		color: #fff;
+		white-space: normal;
 	}
 
 	.news-not-photo {
@@ -162,6 +167,17 @@
 		font-size: 0.875rem;
 	}
 
+	.dropdown-menu {
+	    padding: 0 0 0.5rem 0;
+	    margin: 0.125rem 0 0;
+	    font-size: 1rem;
+	    background-color: #8395b9;
+	    border: none;
+	}
+	.dropdown-item {
+		color: #fff;
+	}
+
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -208,6 +224,16 @@
 	.block-right-down a {
 		font-size: 1rem;
 	}
+	.dropdown-menu {
+	    padding: 0 0 0.5rem 0;
+	    margin: 0.125rem 0 0;
+	    font-size: 1rem;
+	    background-color: #8395b9;
+	    border: none;
+	}
+	.dropdown-item {
+		color: #fff;
+	}
 
 }
 
@@ -223,11 +249,15 @@
 	    right: 0;
 
 	}
+
+	
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-
+	.img-overlay .btn-danger {
+		font-size: 0.875rem;
+	}
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
