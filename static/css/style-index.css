@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-info-mobil {
-	background: url(../static/images/bcg-head-mobil.png) no-repeat;
+	background: url(../images/bcg-head-mobil.png) no-repeat;
 	background-size: cover;
 	color: #fff;
 }
@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: rgba(54, 58, 63, 0.85);
 }
 .header-info {
-	background: url("../static/images/bcg-head.png") no-repeat;
+	background: url("../images/bcg-head.png") no-repeat;
 	background-size: cover;
 	color: #fff;
 }
@@ -349,7 +349,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Penultimate block */
 .penultimate-block {
-	background: url("../static/images/bg-belowe-footer.png") no-repeat;
+	background: url("../images/bg-belowe-footer.png") no-repeat;
 	background-size: cover;
 	background-position: center bottom;
 	color: #fff;
@@ -358,21 +358,21 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 1.5rem;
 }
 .penultimate-01 {
-	background: url("../static/images/img-gradient.png") no-repeat;
+	background: url("../images/img-gradient.png") no-repeat;
 	background-size: cover;
 	background-position: center bottom;
 	color: #fff;
 }
 
 .penultimate-02 {
-	background: url("../static/images/img-welder1.png") no-repeat;
+	background: url("../images/img-welder1.png") no-repeat;
 	background-size: cover;
 	background-position: center bottom;
 	color: #fff;
 }
 
 .penultimate-03 {
-	background: url("../static/images/img-welding.png") no-repeat;
+	background: url("../images/img-welding.png") no-repeat;
 	background-size: cover;
 	background-position: center bottom;
 	color: #fff;
